@@ -12,6 +12,15 @@ Maurer Rose generator written in P5.js.
 
 :two: Run `index.html` with Live server or from finder.
 
+## Activities
+✅ Basic features 
+
+✅ Implement the custom sliders and color picker.
+
+⬜️ Host in github pages.
+
+⬜️ Mobile Responsive
+
 ## Screenshot 
 !['Maurer Rose'](https://i.imgur.com/1hMGmS4.png)
 
