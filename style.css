@@ -1,0 +1,41 @@
+body {
+  background: #e0e5ec;
+}
+.title{
+  position: relative;
+  text-align: center;
+  color: #353535;
+  font-size: 30px;
+  font-family: "Cormorant Garamond", serif;
+  margin-bottom:0px !important;
+}
+
+hr{
+  width:60%;
+  align:center;
+}
+
+.button {
+  width: 30em;
+  height: 5em;
+  font-size:0.5em;
+  padding: auto;
+  margin-bottom: 10px;
+  border: 2px solid #000;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  display: inline-block;
+  transition: all 0.3s ease;
+}
+
+.button:hover {
+     box-shadow:
+   -7px -7px 20px 0px #fff9,
+   -4px -4px 5px 0px #fff9,
+   7px 7px 20px 0px #0002,
+   4px 4px 5px 0px #0001;
+}
